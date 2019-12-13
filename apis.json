@@ -1,0 +1,138 @@
+{
+    "name": "3dcart",
+    "description": "<p>The 3dcart shopping cart software is a complete web store solution for anyone looking to start an online business, add a shopping cart to their existing website, or to replace their existing shopping cart platform. 3dcart includes the latest, most innovative features, tools, support and technology needed to build, promote and grow your online business.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/21488-www-3dcart-com.jpg",
+    "tags": [
+        " point-of-sale",
+        "api provider",
+        "commerce",
+        "have api",
+        "have swagger",
+        "hosting",
+        "json",
+        "marketing",
+        "profile",
+        "relative data",
+        "rest",
+        "shopping cart",
+        "webhooks",
+        "xml"
+    ],
+    "created": "2019-12-12",
+    "modified": "2019-12-12",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/3dcart\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "_3dCartWebAPI 1.0",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/21488-www-3dcart-com.jpg",
+            "humanURL": "http:\/\/www.3dcart.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/3dcartwebapi-1-0-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/-3dcartwebapi-1-0.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/3dcartwebapi-1-0-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "_3dCartWebAPI",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/21488-www-3dcart-com.jpg",
+            "humanURL": "http:\/\/www.3dcart.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/-3dcartwebapi-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/-3dcartwebapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/-3dcartwebapi-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/3dcart"
+        },
+        {
+            "type": "About",
+            "url": "https:\/\/www.3dcart.com\/aboutus.htm"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.3dcart.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/3dcart-shopping-cart-software"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.3dcart.com\/"
+        },
+        {
+            "type": "Forums",
+            "url": "https:\/\/forums.3dcart.com\/forum\/developers"
+        },
+        {
+            "type": "Login",
+            "url": "https:\/\/www.3dcart.com\/login-page.html"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/21488-2019-09-02-17-56-39.json"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/www.3dcart.com\/ecommerce-partners.html"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.3dcart.com\/pricing.htm"
+        },
+        {
+            "type": "Privacy",
+            "url": "https:\/\/www.3dcart.com\/privacy.html"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/support.3dcart.com\/knowledgebase\/article\/View\/87\/16\/how-do-i-use-the-rest-api"
+        },
+        {
+            "type": "Terms of service",
+            "url": "https:\/\/www.3dcart.com\/legal.html"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/3dcart"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.3dcart.com"
+        },
+        {
+            "type": "Youtube",
+            "url": "https:\/\/www.youtube.com\/user\/3dcart"
+        }
+    ]
+}

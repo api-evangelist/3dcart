@@ -1,11 +1,5 @@
 {
     "openapi": "3.0.0",
-    "info": {
-        "version": "v1",
-        "title": "_3dCartWebAPI 1.0",
-        "description": "",
-        "termsOfService": "http:\/\/exmple.com\/license\/"
-    },
     "servers": [
         "httpsapirest.3dcart.com\/"
     ],

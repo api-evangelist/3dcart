@@ -1549,7 +1549,7 @@
         "\/3dCartWebAPI\/v1\/CustomerGroups\/{customergroupid}": {
             "put": {
                 "summary": "This method is used to update a single customer group in the database. The {id} parameter specifies which customer group to update.",
-                "description": "<a href=\"\/Help\/Api\/PUT-3dCartWebAPI-v1-CustomerGroups\">Click here<\/a> for more information on updating collections.",
+                "description": "Click here for more information on updating collections.",
                 "operationId": "CustomerGroupsUpdate",
                 "deprecated": 0,
                 "parameters": [

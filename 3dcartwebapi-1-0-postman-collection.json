@@ -1,5 +1,5 @@
 {
-    "id": "fea70643584e9ab9e39ee1422db5a14c",
+    "id": "1877825bee6cfe2d2fd949818a1ab41d",
     "name": "3dCartWebAPI 1.0",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "eb9d79d6290e801feec2109088ab29d7",
+            "id": "e0e301fbe5b3ecbd902ff4cebe0f67fa",
             "name": "Get all Admin Permissions",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/AdminPermissions",
             "description": "Get a list of all Admin Permissions",
@@ -65,11 +65,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "d86202d2cd913fceec046e503c0b0da8",
+            "id": "9c320f7ab2898543c1515f039159f373",
             "name": "Get a Permission",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/AdminPermissions\/{id}",
             "description": "Get a Permission",
@@ -96,11 +96,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "1a510d401ab63aca9d8268e60abff8d5",
+            "id": "8b5feb477e544de1bfabed8a0ba940cf",
             "name": "Get all Admin Users",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Admins",
             "description": "Get a list of all Admin Users",
@@ -162,11 +162,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "a5ab2d57a226ffb0fb51827cfb72d92c",
+            "id": "c4fe56ac335b5c23af41049a53c641c1",
             "name": "Adds a new Admin User to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Admins",
             "description": "",
@@ -185,11 +185,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "a9befa15ec0d4dfed054ceee64750a53",
+            "id": "abcc5602e53e30235ef94f0474410305",
             "name": "Get an Admin User",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Admins\/{id}",
             "description": "Get an Admin User",
@@ -216,11 +216,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "11943a65df8b1f54375c5e64a1ce5efe",
+            "id": "f070b3631004543a57cdcb48197f3c46",
             "name": "This method is used to update a single admin record in the database. The {id} parameter specifies which admin record to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Admins\/{id}",
             "description": "",
@@ -247,11 +247,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "1b3c71c8e21baf6f3c44f22f49f33399",
+            "id": "4dbad9fe0c1ab596f598899a0945f003",
             "name": "Deletes an Admin from the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Admins\/{id}",
             "description": "",
@@ -278,11 +278,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "7490d1f04637e095bf57002b556e49f7",
+            "id": "347d50f75ececc7d3ec5477791d0b1e4",
             "name": "Get the LoginToken from a specific Admin User",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Admins\/{id}\/LoginToken",
             "description": "",
@@ -316,11 +316,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "ec759d6056c5aa0d9bb0fa2e19959a4e",
+            "id": "869367975c637e6e5ed156358ec93dfe",
             "name": "Adds a new cart to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Cart",
             "description": "",
@@ -339,11 +339,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "d6f4cd59181e041dfe47319b54233d8f",
+            "id": "dce7a39e91c88a74b248566c57ebc01f",
             "name": "Get a specific cart",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Cart\/{orderkey}",
             "description": "Get a specific cart",
@@ -370,11 +370,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "8b56985ff48e80e31251f930df0792fb",
+            "id": "5be5ed01c0ec165d735d74f7a51c5c7a",
             "name": "This method is used to update a single cart record in the database. The {orderkey} parameter specifies which cart record to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Cart\/{orderkey}",
             "description": "",
@@ -401,11 +401,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "4ad7846a5ecc676b1d3b91810bd3ed0f",
+            "id": "176392ea0fc1511bf98dd5a11f828262",
             "name": "Delete a Cart in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Cart\/{orderkey}",
             "description": "",
@@ -432,11 +432,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "89dc93ff4876ff0847aa48a6c1dda928",
+            "id": "13dcf3e8d5cc40ced4b49ec1dd76dc9b",
             "name": "Adds a new item to a cart",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Cart\/{orderkey}\/Item",
             "description": "",
@@ -463,11 +463,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "8c311af3f5d341e2fd3ad89d74345334",
+            "id": "8a42baf6ae4524fd7a56c52444ee9556",
             "name": "Updates a specific item from a specific Cart",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Cart\/{orderkey}\/Item\/{cartitemid}",
             "description": "",
@@ -501,11 +501,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "7080b071b699efad0ff8159f95b40b38",
+            "id": "0dde36cda01cf40c91ee761ca41be9b1",
             "name": "Deletes a CartItem in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Cart\/{orderkey}\/Item\/{cartitemid}",
             "description": "",
@@ -539,11 +539,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "bd20fdf24e7d868fda6c408b6d1c8102",
+            "id": "7fe7ef26e4c2dbdd3097cc1ede287d32",
             "name": "Get all Categories",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Categories",
             "description": "Get a list of all categories",
@@ -591,11 +591,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "947ce2c655c5148b8d1abcd118bd4652",
+            "id": "7bfcfe94734154daf289f7bc7921be47",
             "name": "This method is used to update multiple category records in the database. No {categoryid} parameters should be included.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Categories",
             "description": "",
@@ -614,11 +614,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "a682c40b1b96a1922ebdefe92d59a686",
+            "id": "336881252feeac89ae8ed4e87abf0cc7",
             "name": "Adds a new category to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Categories",
             "description": "",
@@ -637,11 +637,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "92208f2498a3807de9eade39969e6ded",
+            "id": "17f9b618c4d88be431168bef2c748b2f",
             "name": "This method is used to update a single category record in the database. The {categoryid} parameter specifies which category to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Categories\/{categoryid}",
             "description": "",
@@ -668,11 +668,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "9cbf18cbff8a394500d715933e6502d7",
+            "id": "77dc5073ccb4f4db56677de1293e0e68",
             "name": "Get the options from a specific Category",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Categories\/{categoryid}\/Options",
             "description": "Get the options from a specific Category",
@@ -713,11 +713,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "7355bd7dffe5ca7c4d6a0674e67112ca",
+            "id": "2a445318cef0784effb5565408bb5c77",
             "name": "Updates a collection of options from a specific Category",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Categories\/{categoryid}\/Options",
             "description": "",
@@ -744,11 +744,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "c76638a39aa39a98c3c125841537199a",
+            "id": "6944f449d4b0cd3fa401c5274901e71f",
             "name": "Adds a new OptionSet to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Categories\/{categoryid}\/Options",
             "description": "",
@@ -775,11 +775,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "e9cb21c6da1b430b76e4260d67ea0907",
+            "id": "e9071cbbf62480e4852ed141482cc253",
             "name": "Updates specific options from a specific Category",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Categories\/{categoryid}\/Options\/{optionsetid}",
             "description": "",
@@ -813,11 +813,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "1727acef68b91577e5348c2faac300cc",
+            "id": "03b3f511a9ffe0974c9a970cd8425442",
             "name": "Get all products from a specific category",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Categories\/{categoryid}\/Products",
             "description": "Get a list of all products from a specific category",
@@ -1012,11 +1012,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "3e6aa1d7748d8dc9f79e870bfd0d9354",
+            "id": "2bee3d1b64e0ac440f538b46e619e23f",
             "name": "Get a Category",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Categories\/{id}",
             "description": "Get a category",
@@ -1043,11 +1043,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "4eca113e3a016c4dc660ffbc7b1be1a0",
+            "id": "e43eb2bc9c54250cdfe0502dd5da9f58",
             "name": "Deletes a Category in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Categories\/{id}",
             "description": "",
@@ -1074,11 +1074,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "05c288617a772ac29ce18d7b1dad545e",
+            "id": "8259dd956f8891ce1e13242f7fccea28",
             "name": "Get all CRMs",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM",
             "description": "Get a list of all CRMs",
@@ -1217,11 +1217,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "b63c81dccd5527542df3ad674800bcbe",
+            "id": "5d0e8fbf0ce91a791abf49654082f855",
             "name": "Adds a new CRM to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM",
             "description": "",
@@ -1240,11 +1240,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "292edc0adde9e61370e3144ee0deb525",
+            "id": "54d9941a76ee882c6bb9b9add5c45379",
             "name": "Get all the messages from a specific CRM",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/{crmid}\/message",
             "description": "",
@@ -1285,11 +1285,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "ae481958eed5a45fec404470f8a869cc",
+            "id": "c8654ab9482be634258638790d3ef448",
             "name": "Get a specific Message",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/{crmid}\/message\/{msgid}",
             "description": "Get a specific Message",
@@ -1323,11 +1323,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "5311eedd245f0cd0bc47c6ddbe606d99",
+            "id": "cbce163533deaca587187369d20c4949",
             "name": "Delete a CRM Message in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/{crmid}\/message\/{msgid}",
             "description": "",
@@ -1361,11 +1361,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "b9f02cd87314c521661f7fde2316ad8b",
+            "id": "f756e368afcfed55668e619bca9b8735",
             "name": "Get a specific CRM",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/{id}",
             "description": "Get a specific CRM",
@@ -1392,11 +1392,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "b8c5b852ef4f77a3d7d2e1e74cdc8629",
+            "id": "582e4621f7bd539a11b5cb561963de3d",
             "name": "This method is used to update a single CRM record in the database. The {id} parameter specifies which CRM record to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/{id}",
             "description": "",
@@ -1423,11 +1423,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "d222841002015d7fd1af633e06c346ad",
+            "id": "2ddc9f57d14bf34bf077f2bd7cd2cd86",
             "name": "Delete a CRM in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/{id}",
             "description": "",
@@ -1454,11 +1454,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "084bc6699df8f7262675bc48fb03621f",
+            "id": "13f3c8fbba13d7e128a4009da76a4ed0",
             "name": "Adds a new CRM Message to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/{id}\/message",
             "description": "",
@@ -1485,11 +1485,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "19d73b7c0d609db1e7877f3a65420d03",
+            "id": "275c81c142a1d4c078bce7dc232e3b27",
             "name": "Get all CRM Departments",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/department",
             "description": "Get a list of all CRM Departments",
@@ -1530,11 +1530,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "8d17910237a0a9359903f72bbab56e3a",
+            "id": "4df434879d240c004d618d9e6515043c",
             "name": "This method is used to update a single CRM Department record in the database. The {id} parameter specifies which CRM Department record to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/department\/{id}",
             "description": "",
@@ -1561,11 +1561,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "0f7ec7cdefd0f3715adab68c6e6319f9",
+            "id": "f033e937bb4818a19312c187a924bc1e",
             "name": "Get all CRMs",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/savedreply",
             "description": "Get a list of all CRMs",
@@ -1613,11 +1613,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "a7db7ae9e13e52b358325f01b6987748",
+            "id": "51551752b7c1cbae7c608011bb9e8240",
             "name": "Adds a new CRM SaveReply to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/savedreply",
             "description": "",
@@ -1636,11 +1636,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "666d8915e2b77450f66acf977b91950c",
+            "id": "a770462ea6c8f4ad0d5ea6f01984257c",
             "name": "Get a specific CRM Saved Reply",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/savedreply\/{id}",
             "description": "Get a specific CRM Saved Reply",
@@ -1667,11 +1667,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "6f669f85fbbd9ffe9de0e34aaf3c0725",
+            "id": "37a53ba82c3bee68a9c570af8adb7e7b",
             "name": "This method is used to update a single CRM SavedReply record in the database. The {id} parameter specifies which CRM SavedReply record to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/savedreply\/{id}",
             "description": "",
@@ -1698,11 +1698,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "7c9fef864794bfc5faaafbb7c25c65f4",
+            "id": "0e5ebb40c66e81de0b99f48efd9ae6cf",
             "name": "Delete a CRM SavedReply in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/savedreply\/{id}",
             "description": "",
@@ -1729,11 +1729,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "4401979349c3c962aa90f2d3bd9dbb70",
+            "id": "928084f06936f0a2133ab7a5b50a3082",
             "name": "Get all CRM Status",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/status",
             "description": "Get a list of all CRM Status",
@@ -1774,11 +1774,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "d0749b7c71c02d50c356d193457be47e",
+            "id": "203e614474a179187b76fc67ade1c6f9",
             "name": "This method is used to update a single CRM Status record in the database. The {id} parameter specifies which CRM Status record to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CRM\/status\/{id}",
             "description": "",
@@ -1805,11 +1805,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "93f1ee73c564e6d9b9a484da3b531120",
+            "id": "0c07e6119dd0e5eb037e98d4001f64a5",
             "name": "Get all CustomerGroups",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CustomerGroups",
             "description": "Get a list of all CustomerGroups",
@@ -1850,11 +1850,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "8610a4ba90f36f43c403998969183c1c",
+            "id": "1c48883ce1f3b972ca4918c26709d643",
             "name": "This method updates a collection of customer groups in the database. No URL parameters should be included.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CustomerGroups",
             "description": "",
@@ -1873,11 +1873,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "c400affc32b091cf28b773019486818e",
+            "id": "f493471c25a5ff0756429e28ca9c19db",
             "name": "Adds a new customer group to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CustomerGroups",
             "description": "",
@@ -1896,11 +1896,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "b3ea71be194cc112ed945d4cda716150",
+            "id": "b526b5358f8f93b2e6ceb882ae643387",
             "name": "This method is used to update a single customer group in the database. The {id} parameter specifies which customer group to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CustomerGroups\/{customergroupid}",
             "description": "Click here for more information on updating collections.",
@@ -1927,11 +1927,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "2fe1330bd5e667e94d5a2ed73afdb579",
+            "id": "56284a75b13211322596509b07660867",
             "name": "Get a CustomerGroup",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CustomerGroups\/{id}",
             "description": "Get a CustomerGroup",
@@ -1958,11 +1958,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "c603041a54947819ce492ebe609aac97",
+            "id": "d9f5120ac1b2bba9288abf99fdf14fc1",
             "name": "Deletes a customer group in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CustomerGroups\/{id}",
             "description": "",
@@ -1989,11 +1989,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "cef465fdc684195631cd0d436c6e2fd7",
+            "id": "286d000cd3133d90786b91bc2cb7e5be",
             "name": "Get Customers from a Customer Group",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/CustomerGroups\/{id}\/Customers",
             "description": "Get a list of all Customers from a Customer Group",
@@ -2104,11 +2104,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "1f7f497085d3caf09a559954f533f82c",
+            "id": "02bfc8d1e12426f2b092d867b68fe0cb",
             "name": "Get all Customers",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Customers",
             "description": "Get a list of all Customers",
@@ -2212,11 +2212,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "440781a9e2062dd4d160c9b68d52e505",
+            "id": "9c42da3ee52991bf738a008d54a8197f",
             "name": "This method is used to update multiple customers in the system. No URL parameters should be included.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Customers",
             "description": "",
@@ -2235,11 +2235,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "3e3a53cfab537ddc3a4135d507fe357e",
+            "id": "46e18e5123c50933b1ab0e78e88bebc4",
             "name": "Adds a new customer to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Customers",
             "description": "",
@@ -2258,11 +2258,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "159377c86d6b3564f9519ab711f77893",
+            "id": "8425fab67b2d2253944a6d1558f6b444",
             "name": "This method is used to update a single customer record in the database. The {id} parameter specifies which customer record to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Customers\/{customerid}",
             "description": "",
@@ -2289,11 +2289,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "11304727044fa3eb33ec271e17a40edc",
+            "id": "105431e769bb040f8bd2c03d7ae46b28",
             "name": "Get a Customer",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Customers\/{id}",
             "description": "Get a Customer",
@@ -2320,11 +2320,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "4ee30a9d6d442ff43b33165490de00be",
+            "id": "a499604407962553449387079e8dd552",
             "name": "Deletes a Customer in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Customers\/{id}",
             "description": "",
@@ -2351,11 +2351,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "e664828ae8f622230346a53a6c58895c",
+            "id": "1a2f8c4384e8b1a0532a93c83d79b479",
             "name": "Get all Distributors",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Distributors",
             "description": "Get all Distributors",
@@ -2438,11 +2438,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "d8c445499c282641c6f3f10f9b2fede0",
+            "id": "fdf662553bc453d3a487ebbd9a92da6a",
             "name": "This method is used to update multiple distributor records in the database. No {distributorid} parameters should be included.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Distributors",
             "description": "",
@@ -2461,11 +2461,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "c13fc5f3d79ecae2a672e0d8ebbd6e19",
+            "id": "73b1eb3ed888e75ad38f6306400e7bd2",
             "name": "Adds a new distributor to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Distributors",
             "description": "",
@@ -2484,11 +2484,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "a25ba3b3ccd7167e069d32fbd8721d07",
+            "id": "10f417feace0fb856c1135f1d85259c1",
             "name": "This method is used to update a single distributor record in the database. The {distributorid} parameter specifies which distributor to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Distributors\/{distributorid}",
             "description": "",
@@ -2515,11 +2515,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "e07cbd8efe5b2f1003c43bc7a83a89bc",
+            "id": "d710d174d18641b3d7cb699c7695c085",
             "name": "Get all products from a specific distributor",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Distributors\/{distributorid}\/Products",
             "description": "Get a list of all products from a specific distributor",
@@ -2714,11 +2714,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "a19e6b9ee34ebff9554956d79f44453f",
+            "id": "3774106a3e2af5a835f843f493ee2117",
             "name": "Get a Distributor",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Distributors\/{id}",
             "description": "Get a Distributor",
@@ -2745,11 +2745,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "ad33639304ddbf1c4c5ccc18d5a3ae69",
+            "id": "9332607e019b77f7259a22a1783609ba",
             "name": "Deletes a Distributor in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Distributors\/{id}",
             "description": "",
@@ -2776,11 +2776,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "0081e44c0b3d2ef46158183011a76608",
+            "id": "acc3272e3b5e4c5f261a1d7ac9136b26",
             "name": "Get all Frontend Scripts",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/FrontendScripts",
             "description": "Get a list of all Frontend Scripts",
@@ -2821,11 +2821,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "efd731611df3f06c0c1528335ad055f4",
+            "id": "143903dca20893430f88785c09e93342",
             "name": "This method is used to update multiple frontend scripts in the database. No URL parameters should be included.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/FrontendScripts",
             "description": "",
@@ -2844,11 +2844,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "f7aea1fa09db7768723b4fe24b56c332",
+            "id": "e424e02780a61890471394801a0d27db",
             "name": "Adds a new frontend script to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/FrontendScripts",
             "description": "",
@@ -2867,11 +2867,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "9a6fbd3e43eb18a33c28aa6843d94734",
+            "id": "5f2ab3a9b8b095f16cae10acac0acb45",
             "name": "This method is used to update a single frontend script record in the database. The {frontendscriptid} parameter specifies which frontendscript record to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/FrontendScripts\/{frontendscriptid}",
             "description": "",
@@ -2898,11 +2898,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "975d7c44b34b167a35f4505d5c416119",
+            "id": "5edc4220d6b70928cdeb7ea5155d2e47",
             "name": "Get a Frontend Script",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/FrontendScripts\/{id}",
             "description": "Get a Frontend Script",
@@ -2929,11 +2929,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "466205c0a1939af2a24c507083cb2083",
+            "id": "1811232dd9517e02803fd14dc2246222",
             "name": "Deletes a Frontend Script in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/FrontendScripts\/{id}",
             "description": "",
@@ -2960,11 +2960,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "663bd367b93d2b457befce18ea408387",
+            "id": "81ce3134aac032d02fe0a06853ce874e",
             "name": "Get all GiftRegistries",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/GiftRegistries",
             "description": "Get a list of all GiftRegistries",
@@ -3061,11 +3061,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "07d2d47920a038284a95b1b83c168709",
+            "id": "ff7d67b43402e6af6cd0b34390bcc6b5",
             "name": "Get a specific GiftRegistry",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/GiftRegistries\/{giftregistryid}",
             "description": "Get a specific GiftRegistry",
@@ -3092,11 +3092,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "916c2708a977e2fa1de297c1a5ea0ffc",
+            "id": "3391a1c730d802adb55a406ce28d98a2",
             "name": "Gets the items from a specific Gift Registry",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/GiftRegistries\/{giftregistryid}\/Items",
             "description": "",
@@ -3137,11 +3137,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "2df02d4244208928e8e7a79bbfe72db2",
+            "id": "4dae8c1a0b6f7e1f263f9195d8e203e6",
             "name": "Get all Manufacturers",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Manufacturers",
             "description": "Get a list of all Manufacturers",
@@ -3189,11 +3189,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "e4a6d4d5a6b13e0a797b0d5540b78a2e",
+            "id": "0a463ad2acc435a4bdda212e46179f0d",
             "name": "This method is used to update multiple manufacturers in the database. No URL parameters should be included.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Manufacturers",
             "description": "",
@@ -3212,11 +3212,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "af91aa3f21d166af3e8505984eb6508f",
+            "id": "93ac6106a56d70b673d66e096388f2e2",
             "name": "Adds a new manufacturer to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Manufacturers",
             "description": "",
@@ -3235,11 +3235,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "959948bd1b062f91c40e44ad147e7339",
+            "id": "cd4038ad1dcfe894f4c0b1911259a006",
             "name": "Get a Manufacturer",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Manufacturers\/{id}",
             "description": "Get a Manufacturer",
@@ -3266,11 +3266,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "b6c286e1ee080794c7506a60fa3e3836",
+            "id": "adb587daef1a9c287d6ce24b500dd327",
             "name": "Deletes a Manufacturer in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Manufacturers\/{id}",
             "description": "",
@@ -3297,11 +3297,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "95f0d13e87d898af911bfee97a941981",
+            "id": "91f70bead4a3c1e291dcf8574032a774",
             "name": "This method is used to update a single manufacturer record in the database. The {manufacturerid} parameter specifies which manufacturer record to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Manufacturers\/{manufacturerid}",
             "description": "",
@@ -3328,11 +3328,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "4110379958846440097556674d0a031b",
+            "id": "e737c4c8b6b889494bd9cdf83b321061",
             "name": "Get all products from a specific manufacturer",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Manufacturers\/{manufacturerid}\/Products",
             "description": "Get a list of all products from a specific manufacturer",
@@ -3527,11 +3527,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "f45ba2a89933d44386f3550f37b076eb",
+            "id": "6a098b5644ffb016d5a1e5c39604124b",
             "name": "Get all orders",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders",
             "description": "Get a list of all orders",
@@ -3642,11 +3642,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "9a0e6cde0f3e34a3f028d4d377756a77",
+            "id": "58750b3dc97c7a089ad292ddd0a64a78",
             "name": "This method is used to update multiple orders in the database. No URL parameters should be included.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders",
             "description": "",
@@ -3665,11 +3665,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "9744b0780d07bcc2c1a27ac488d680f7",
+            "id": "e4a867a400b90ba659f3c1914387064e",
             "name": "Adds a new order to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders",
             "description": "",
@@ -3703,11 +3703,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "92f17d1d3023d2a6dfba6d77f0f90de2",
+            "id": "a5096457eda50441383b81e591aacf8e",
             "name": "Get a specific order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}",
             "description": "Get a specific order",
@@ -3734,11 +3734,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "3c612e47fe461494c22a536df98db93c",
+            "id": "e3c3df5885bc24578f3be15e09713462",
             "name": "This method is used to update a single order record in the database. The {orderid} parameter specifies which order record to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}",
             "description": "",
@@ -3765,11 +3765,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "171085a527609f7f3e46dfa74f1e0bce",
+            "id": "2925d2b9a46806bcb72f52821394b9bf",
             "name": "Gets the items from a specific Order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Items",
             "description": "",
@@ -3810,11 +3810,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "892e32588c77a7052adbbbb882b2843a",
+            "id": "2705a0e7cc8a23fdefe786d70030d826",
             "name": "Updates a collection of items from a specific Order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Items",
             "description": "",
@@ -3841,11 +3841,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "8a0aa54517ec7fbc3f399579ce862ede",
+            "id": "cf26adac0695713e08717102ef34c273",
             "name": "Adds a new item on the order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Items",
             "description": "",
@@ -3872,11 +3872,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "6c66b75df0dd5b834d3a0a5764e1ce83",
+            "id": "210182ce3c4071674a78b3e2c7e5be06",
             "name": "Updates a specific item from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Items\/{itemindexid}",
             "description": "",
@@ -3910,11 +3910,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "de6211c2aaf0c3cea50c3f061ffd2e17",
+            "id": "c3def59a99018aacd7a3ff0536598f70",
             "name": "Gets the questions from a specific Order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Questions",
             "description": "",
@@ -3955,11 +3955,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "d5bbb04f065eaa6b79a568bcebfa60d5",
+            "id": "0a85531e0ca256853bd21ccd609d01e4",
             "name": "Updates a collection of questions from a specific Order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Questions",
             "description": "",
@@ -3986,11 +3986,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "878efec7bc8d724fd7b3da435a078b6c",
+            "id": "cd51d8b7230c5acf4f93e4a3a00e1f1c",
             "name": "Adds a new question on the order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Questions",
             "description": "",
@@ -4017,11 +4017,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "f8d1e5031999fff2086b4c93fb724be3",
+            "id": "1f33a89d060148dc5b606d3d90b2558c",
             "name": "Updates a specific question from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Questions\/{questionanswerindexid}",
             "description": "",
@@ -4055,11 +4055,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "bae91ea1758ace82ae2ef8e19fd9f596",
+            "id": "335e61a332206e9bd1e0415b750c9a52",
             "name": "Gets the shipments from a specific Order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Shipments",
             "description": "",
@@ -4100,11 +4100,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "fa844e0bbfda64245859ed5b7ccfbed1",
+            "id": "cdb93c2803a13dc5e138c02e33a5e93d",
             "name": "Updates a collection of shipments from a specific Order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Shipments",
             "description": "",
@@ -4131,11 +4131,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "7fcb42d592a32c475db110ac9384665c",
+            "id": "dfa32043e84b7d32609f86f0b59dec1f",
             "name": "Adds a new shipment on the order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Shipments",
             "description": "",
@@ -4162,11 +4162,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "b3c467222ce93ce15cab9e6a7aa8e263",
+            "id": "c4ed665e3d22e7c0a9121094b8f2fb11",
             "name": "Updates a specific shipment from a specific Order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Shipments\/{shipmentid}",
             "description": "",
@@ -4200,11 +4200,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "4ca3ca87c65d4b338e74b1bbf0190925",
+            "id": "3516e56e435743b828d32d66e127abb4",
             "name": "Gets the transactions from a specific Order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Transactions",
             "description": "",
@@ -4245,11 +4245,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "f1469f9e6d7a8a0efbcfb3a51236d95e",
+            "id": "a2c2e57dae96c47f92b58097b3812129",
             "name": "Updates a collection of transactions from a specific Order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Transactions",
             "description": "",
@@ -4276,11 +4276,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "5ab2a27851666eaee922cb36d49c545d",
+            "id": "0fffd3cb3889eaa7f0f772bbb48fc0ce",
             "name": "Adds a new transaction on the order",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Transactions",
             "description": "",
@@ -4307,11 +4307,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "d2bf3b914d2b985814617bbd6c184886",
+            "id": "feffae6f0cb9b82cce103a698a492126",
             "name": "Updates a specific transaction from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Orders\/{orderid}\/Transactions\/{transactionindexid}",
             "description": "",
@@ -4345,11 +4345,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "825199e2cb2513e6fe4844a90e6f81a3",
+            "id": "d75c8446d2149677a60d2e8e9cc8b36c",
             "name": "Get all OrderStatus",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/OrderStatus",
             "description": "Get a list of all OrderStatus",
@@ -4390,11 +4390,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "1c2b2868bfa766043120350f917770c7",
+            "id": "9e585ac60e121f2227e949ae05fb8e95",
             "name": "Get an OrderStatus",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/OrderStatus\/{id}",
             "description": "Get an OrderStatus",
@@ -4421,11 +4421,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "dd0b658821c10f986cf28724342aeee0",
+            "id": "3e53fa1fd65d6f8b0ac82e338866a04a",
             "name": "Get all Payment Tokens",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/PaymentTokens",
             "description": "Get a list of all Payment Tokens",
@@ -4466,11 +4466,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "6ee56194ddb00acec1f23e7e1deaa2e8",
+            "id": "7f3009beeac54121e3f11e40c20ad591",
             "name": "This method is used to update multiple paymenttokens in the database. No URL parameters should be included.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/PaymentTokens",
             "description": "",
@@ -4489,11 +4489,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "dae96d52a6d87fce97bdbc1104cece83",
+            "id": "c3f17ce0c6995e7e2bc65ef085a3ba12",
             "name": "Adds a new paymenttoken to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/PaymentTokens",
             "description": "",
@@ -4512,11 +4512,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "c8fb90c0de88df5fc3a24e6d9a9bbcd5",
+            "id": "92fcee9f575a5058541ab1896088de8b",
             "name": "Get a Payment Token",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/PaymentTokens\/{id}",
             "description": "Get a Payment Token",
@@ -4543,11 +4543,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "39a40262cbaac094fabf3d38d02871d5",
+            "id": "1d3254bd039781e7af8203307c76861d",
             "name": "Deletes a Payment Token in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/PaymentTokens\/{id}",
             "description": "",
@@ -4574,11 +4574,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "cdddc89f8890d20af4a4cd25c8fa2f68",
+            "id": "92f1b3c13ee8e0a676f405a2cfc6e1a5",
             "name": "This method is used to update a single paymenttoken record in the database. The {paymenttokenid} parameter specifies which paymenttoken record to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/PaymentTokens\/{paymenttokenid}",
             "description": "",
@@ -4605,11 +4605,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "3348cc11fddcb86de80d20becac0f663",
+            "id": "e196d47fdebde1d261e236af7440fa57",
             "name": "Get all products",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products",
             "description": "Get a list of all products",
@@ -4797,11 +4797,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "27dfdb3c4a57ff2c7209afa7e189827a",
+            "id": "337c8a6b06c6b8d2440a10b9a7b84ad2",
             "name": "This method is used to update multiple products in the database. No URL parameters should be included.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products",
             "description": "",
@@ -4820,11 +4820,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "a2fd2c37aee13c02bfb5183a238f468f",
+            "id": "baebc70e02fac00ce2ad2841f23fa56d",
             "name": "Adds a new product to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products",
             "description": "",
@@ -4843,11 +4843,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "fb3c30ef6f92ce3f74dfdc13e4063a69",
+            "id": "09e6e59384f7ac843568c1aba8b6346a",
             "name": "Get a product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}",
             "description": "Get a product",
@@ -4874,11 +4874,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "cb1befb8c415841ae2a07619066c8ed3",
+            "id": "21e66a82dc57e4d9040390e79dbd6051",
             "name": "This method is used to update a single product record in the database. The {catalogid} parameter specifies which product record to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}",
             "description": "",
@@ -4905,11 +4905,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "d224d375823241d798b9fddc7a1ecd12",
+            "id": "fa8b1578bbe6bf31dcb02ae2169d9e8a",
             "name": "Deletes a product in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}",
             "description": "",
@@ -4936,11 +4936,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "08fc88a3014550a325d3439835997388",
+            "id": "1cb537a79a7f90b21352509498ac7fe1",
             "name": "Get the advanced options from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/AdvancedOptions",
             "description": "",
@@ -4981,11 +4981,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "d093f6bd1305c23ced75f2e3385286ac",
+            "id": "25b98676c8ad189c6328afbd41ef012a",
             "name": "Updates a collection of advanced options from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/AdvancedOptions",
             "description": "",
@@ -5012,11 +5012,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "c21bcd135ecd1f5b8190c55556650485",
+            "id": "3192e8ac24187b4660ffa3eee14bc39a",
             "name": "Updates specific advanced options from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/AdvancedOptions\/{advancedoptioncode}",
             "description": "",
@@ -5050,11 +5050,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "4114388e0486b5466004555aef59bbe4",
+            "id": "b343307250a5f8e4690488ec0db7a5e9",
             "name": "Get the categories from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Categories",
             "description": "",
@@ -5095,11 +5095,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "b3a38c8905d689a104f572a0e618b8bd",
+            "id": "d031399a874c90f90386afd05305df82",
             "name": "Get the discounts from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Discount",
             "description": "",
@@ -5140,11 +5140,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "6ce74a806ede73d9e992ca70cbb75518",
+            "id": "8bf7b1f56da95a1cea41449aacd19092",
             "name": "Updates a collection of discounts from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Discount",
             "description": "",
@@ -5171,11 +5171,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "59ca37e4850428d5c0ccc396fc23ef48",
+            "id": "890ca4ea98d633e882bfee1c1733edfc",
             "name": "Adds a new discount to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Discount",
             "description": "",
@@ -5202,11 +5202,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "2575bb492e025252689b45cb67d4aa4f",
+            "id": "e92003c6fbee688efdfb6d82999db4d1",
             "name": "Updates a specific discount from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Discount\/{discountid}",
             "description": "",
@@ -5240,11 +5240,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "0e639739fc280dc2c4c4bb8c41b91c8d",
+            "id": "cd691074cef23d000a63757b0dbe01e4",
             "name": "Get the distributors from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Distributors",
             "description": "",
@@ -5285,11 +5285,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "a55b79284e316c32931da2d54ee903cd",
+            "id": "dcc83641b4660ed748a2c2967d4de5d8",
             "name": "Get the EProducts from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/EProducts",
             "description": "",
@@ -5330,11 +5330,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "defc1dba0c625b21a95bf37ec0d4100d",
+            "id": "a6961187091e53ce2ccff7d9f589e348",
             "name": "Updates a collection of eproducts from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/EProducts",
             "description": "",
@@ -5361,11 +5361,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "d1bdd324466e87021811f8e1eb478591",
+            "id": "7fb9c33dc50b7687f5bf4f4ac5993e84",
             "name": "Adds a new eproduct to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/EProducts",
             "description": "",
@@ -5392,11 +5392,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "7a659f712a3aabfd07b1d3dfae168d1d",
+            "id": "88453c3a5d6ebfc8b3298391e886e7a8",
             "name": "Updates a specific eproduct from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/EProducts\/{filenumber}",
             "description": "",
@@ -5430,11 +5430,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "82847260648d67a0ffee743473cca947",
+            "id": "f5590d51fb56f9d8fb5a49cf3bccf3f7",
             "name": "Get the features from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Features",
             "description": "",
@@ -5475,11 +5475,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "2047f96a3b8ceb65f45e93fa96a7a922",
+            "id": "07366ac16ba34c7e12d30073fc851659",
             "name": "Updates a collection of features from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Features",
             "description": "",
@@ -5506,11 +5506,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "9c3c2b5f0f4ec24cf8c74cda6b0996e8",
+            "id": "19105b3736e4945ae21d06f2426038d0",
             "name": "Adds a new feature to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Features",
             "description": "",
@@ -5537,11 +5537,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "15c194ca7d450d1f96fd557e3de30ec4",
+            "id": "e4a9fa7c2505ca86f49e846800cb8fd1",
             "name": "Updates a specific feature from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Features\/{featureid}",
             "description": "",
@@ -5575,11 +5575,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "35336c8f9f6d8eb253bd2f5fc5863020",
+            "id": "b38a30af0e9b120f1ad98a0415d86387",
             "name": "Get the images from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Images",
             "description": "",
@@ -5620,11 +5620,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "0979d48022a5fd7b88680238ffaa2afc",
+            "id": "a4945264351b5a0d7c25c3fcf7b1e7c6",
             "name": "Updates a collection of images from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Images",
             "description": "",
@@ -5651,11 +5651,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "0178089f9dfa1f03075576eeaeebcee8",
+            "id": "8c9f3ee8081f179bf41fa345efadb437",
             "name": "Adds a new image to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Images",
             "description": "",
@@ -5682,11 +5682,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "7118db096d84aefbb0d623b760a860c1",
+            "id": "6b17224be6cc8f6437437c9608e28e57",
             "name": "Updates a specific image from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Images\/{imagegalleryid}",
             "description": "",
@@ -5720,11 +5720,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "303f5c99b8f06ada52a0a6a4c6695e8e",
+            "id": "b96cffcd593b15ced13aa682a2250ca4",
             "name": "Get the options from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Options",
             "description": "",
@@ -5765,11 +5765,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "c2483e086faa7d5a209a725979f6d47a",
+            "id": "5b643df6583aa12916afb6c039a5de19",
             "name": "Updates a collection of options from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Options",
             "description": "",
@@ -5796,11 +5796,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "5d8d965d1d73baba22b842ead3cb4661",
+            "id": "6a5f673b6705c8ae7c9ab3568900adef",
             "name": "Adds a new OptionSet to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Options",
             "description": "",
@@ -5827,11 +5827,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "8a81f17a3e60a809de4a0bb63306f3c0",
+            "id": "e9a5e1600a49e2a0fc27c8c97840bd49",
             "name": "Updates specific options from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Options\/{optionsetid}",
             "description": "",
@@ -5865,11 +5865,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "09bf8b89fd98293cfd4f710f1a916692",
+            "id": "b6e604788c246a90f01a2a9d4b3ad2e4",
             "name": "Get the related products from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Related",
             "description": "",
@@ -5910,11 +5910,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "f0466faba827c66d1a0222df46aeeb4f",
+            "id": "b5a1bf54c256aca900445f3b59279349",
             "name": "Updates a collection of related products from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Related",
             "description": "",
@@ -5941,11 +5941,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "20cb2c15c8b1b93d1909abb80796d3c5",
+            "id": "461762100f9498436653a94a18a8f77e",
             "name": "Adds a new related product to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Related",
             "description": "",
@@ -5972,11 +5972,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "04d553c4fdda423db787ff108bf3680e",
+            "id": "c15622e9aac96756735aabc9637c5050",
             "name": "Updates a specific related product from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Related\/{relatedindexid}",
             "description": "",
@@ -6010,11 +6010,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "89204bc88870ef338992db8330c8fa09",
+            "id": "774620bda070bbd8aaae745fe1a747ed",
             "name": "Get the serials from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Serials",
             "description": "",
@@ -6055,11 +6055,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "d61472f800c9e995a4e172f05c103a21",
+            "id": "61bb8217ba9a59ac276819e41958cf29",
             "name": "Updates a collection of serials from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Serials",
             "description": "",
@@ -6086,11 +6086,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "2e2868603217e471bcd0e73a61c99676",
+            "id": "8c9e5cf4c0b96cf1df487a10ace4d4f4",
             "name": "Adds a new serial to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Serials",
             "description": "",
@@ -6117,11 +6117,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "11cabbfcca299198484a23d9421c3a68",
+            "id": "bcf4f0e4895ccf687e96f793fe729d7a",
             "name": "Updates a specific serial from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/Serials\/{serialid}",
             "description": "",
@@ -6155,11 +6155,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "7d001e8a79298905bcd4220c5f5b40c9",
+            "id": "da1d3b511e8bf7e0652ea99257951a19",
             "name": "Get all products (SKUInfo section only)",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/skuinfo",
             "description": "",
@@ -6221,11 +6221,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "d1526aaca98aad74553c99760a58a2c4",
+            "id": "a1d9d0b35b63878b852cbbdc7e4000ef",
             "name": "Get the upselling products from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/UpSelling",
             "description": "",
@@ -6266,11 +6266,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "d463d645941628c27028cd6c84fa5a0f",
+            "id": "bfa63701bbe8a8d0a1874ecf6dcb00c6",
             "name": "Updates a collection of upselling items from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/UpSelling",
             "description": "",
@@ -6297,11 +6297,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "cd29b85e194ec8a32d1be17d71648495",
+            "id": "a386436ed2a9d63484b58ce815640a54",
             "name": "Adds a new upselling item to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/UpSelling",
             "description": "",
@@ -6328,11 +6328,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "9de04fd2690a6b6a670a043f4241f418",
+            "id": "1ad8e3a21b783667e21a0f45713ec97f",
             "name": "Updates a specific Upselling Item from a specific Product",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/{catalogid}\/UpSelling\/{upsellingindexid}",
             "description": "",
@@ -6366,11 +6366,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "a4f0f66562aa7e9b5cd3e2f9ba8fbca4",
+            "id": "1077ac27884c316fc12026d3cc2136c6",
             "name": "Get all products (SKUInfo section only)",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Products\/skuinfo",
             "description": "",
@@ -6432,11 +6432,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "06275358638262e8affabe9f7599984f",
+            "id": "80ddc00bc065c7308346a61ed0c168b6",
             "name": "Get all Promotions",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Promotions",
             "description": "Get a list of all promotions",
@@ -6484,11 +6484,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "a1f4db3d52d7b1a75a96ac0db7ee3a74",
+            "id": "b3a5ac565e8ab67b839f1b7776587a0a",
             "name": "This method is used to update multiple promotion records in the database. No {promotionid} parameters should be included.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Promotions",
             "description": "",
@@ -6507,11 +6507,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "c4d0720e4f23923f0476cc1a2b1a12ca",
+            "id": "860b6849f3f1a501e164e7fdacab70db",
             "name": "Adds a new promotion to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Promotions",
             "description": "",
@@ -6530,11 +6530,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "bc9fbd9e4f339fddb4a061832e2ad1be",
+            "id": "87588ab0366f0062d4cb6bc5a0c48515",
             "name": "Get a Promotion",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Promotions\/{id}",
             "description": "Get a Promotion",
@@ -6561,11 +6561,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "03b0bc47b17905639e4a7a14e902fa6b",
+            "id": "01965d5a59a064e130efa0d63b7b2eda",
             "name": "Deletes a Promotions in the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Promotions\/{id}",
             "description": "",
@@ -6592,11 +6592,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "28ea416dba355796c57100a2b9185998",
+            "id": "4aa8977f241f52cedf49ac58c40f0a91",
             "name": "This method is used to update a single promotion record in the database. The {promotionid} parameter specifies which promotion to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Promotions\/{promotionid}",
             "description": "",
@@ -6623,11 +6623,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "cae7516d7c1ae893326fc3a4064c22bf",
+            "id": "22e520b2e2c4b4d1f3ef7024a1570666",
             "name": "Get all RMAs",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/RMA",
             "description": "Get a list of all RMAs",
@@ -6717,11 +6717,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "dc3291f6d7cf42d38fab5962adb4fbc7",
+            "id": "7b050a2a331221837ef52f76d46cc1d0",
             "name": "Get a specific RMA",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/RMA\/{rmaid}",
             "description": "Get a specific RMA",
@@ -6748,11 +6748,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "698f02f12cf88b1d7792b4f1a45fc075",
+            "id": "b80df162e5bd3b631591c9f2b4c7073c",
             "name": "Gets the items from a specific RMA",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/RMA\/{rmaid}\/Items",
             "description": "",
@@ -6793,11 +6793,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "a4cb7a6ecbb837cd9725526b5c63bf76",
+            "id": "08a283306cfb46dff9c2ffd84ffc279a",
             "name": "Get the Store Settings",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/StoreSettings",
             "description": "Get the Store Settings",
@@ -6816,11 +6816,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "273103e787def970152ba6b37421b213",
+            "id": "75d47d3760490bf6b0e8ebe8dc5c8d53",
             "name": "This method is used to update the Store Settings in the database.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/StoreSettings",
             "description": "",
@@ -6839,11 +6839,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "82f8a74e3d61a67d2d8fb3e6946f9cdd",
+            "id": "8f2addfb5b5e0741dabf7b943161509b",
             "name": "Get all Webhooks",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Webhooks",
             "description": "Get a list of all Webhooks",
@@ -6940,11 +6940,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "0b9bbd3dbf8c3cf3bd37d63017be61cf",
+            "id": "c5e163d1c7f39b481dbdd5ba332419eb",
             "name": "Adds a new Webhook to the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Webhooks",
             "description": "",
@@ -6963,11 +6963,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "70cc58129ea8289130ab074f284cf34e",
+            "id": "f1077d0652e0dbf4814629345f957e03",
             "name": "Get a Webhook",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Webhooks\/{id}",
             "description": "Get a Webhook",
@@ -6994,11 +6994,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "ae814a06ca4d6f51263f2b97482e6d5d",
+            "id": "4d7c4b3d3abc86ac3c906f3fd67b04f1",
             "name": "This method is used to update a single webhook record in the database. The {id} parameter specifies which webhook record to update.",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Webhooks\/{id}",
             "description": "",
@@ -7025,11 +7025,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "af7298fd68ecebc3acfcd07b8f70bda2",
+            "id": "fe23f8fdbc93a43d3f513792aa4c9721",
             "name": "Deletes a Webhook from the system",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Webhooks\/{id}",
             "description": "",
@@ -7056,11 +7056,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         },
         {
-            "id": "79d6dcd72b8c02b28b15c62078721db2",
+            "id": "79bf0b9ea7b72dfa272cd825d08a1987",
             "name": "Get all Events",
             "url": "httpsapirest.3dcart.com\/\/3dCartWebAPI\/v1\/Webhooks\/Events",
             "description": "Get a list of all the Events",
@@ -7108,7 +7108,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "fea70643584e9ab9e39ee1422db5a14c",
+            "collectionId": "1877825bee6cfe2d2fd949818a1ab41d",
             "rawModeData": ""
         }
     ]
